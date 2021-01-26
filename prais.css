@@ -15,11 +15,17 @@
 
 .flex {
     display: flex;
-    width: 100%;
+    margin-inside: 5%;
+}
+
+.flex-inside {
+    margin-left: 10%;
 }
 
 .body {
     font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .block-left {
@@ -38,3 +44,4 @@
 .razmer {
     font-size: 12px;
 }
+
