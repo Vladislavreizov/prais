@@ -16,6 +16,18 @@
 .flex {
     display: flex;
 }
+.list{
+    padding-inline-start: 0;
+}
+
+.list > li:before {
+    content: "\2666";
+    padding-right: 20px;
+}
+
+.list > li  {
+    list-style-type: none;
+}
 
 .flex-inside {
     margin-left: 10%;
