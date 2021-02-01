@@ -15,6 +15,7 @@
 
 .flex {
     display: flex;
+    padding-bottom: 40px;
 }
 .list{
     padding-inline-start: 0;
@@ -24,6 +25,18 @@
 
 .button   a:hover {
     border-bottom: 1px solid red;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+tr,td {
+    padding: 10px;
+    padding-right: 100px;
+    font-size: small;
 }
 
 .button {
@@ -48,16 +61,85 @@
     margin-left: 10%;
 }
 
+.flex2 {
+    display: flex;
+    font-size: 12px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: rgba(0, 0, 0, 0.78);
+    color: white;
+    font-weight: bold;
+}
+
+.margin-left {
+    margin-left: 220px;
+}
+
+.flex-inside2 {
+    margin-left: 12%;
+}
+
+.flex-inside3 {
+    margin-left: 20%;
+}
+
+.navigation   a:hover {
+    border-bottom: 1px solid red;
+}
+
 .body {
     font-family: Comic Sans MS, Comic Sans, cursive;
     margin-left: 15%;
     margin-right: 15%;
 }
+
+.vk img{
+    padding: 7px;
+    background-color: black;
+
+}
+
+.facebook img{
+    padding: 7px;
+    background-color: black;
+}
+
+.twitter img {
+    padding: 7px;
+    background-color: black;
+}
+
+.margin-bottom{
+    margin-bottom: 7px;
+}
+
+.img   a:hover {
+    border-bottom: 1px solid red;
+}
+
+.admin {
+    padding: 7px;
+    background-color: black;
+}
+
+.margin-bottom2 {
+    margin-bottom: 7px;
+    margin-left: 15px;
+}
+
+.admin a:hover {
+    border-bottom: 1px solid red;
+}
+
 .bold {
     font-weight: bold;
     padding-bottom: 20px;
     padding-top: 20px;
     font-size: large;
+}
+
+.background-color {
+
 }
 
 h1 {
@@ -88,6 +170,12 @@ h2 {
     font-size: 12px;
     padding-bottom: 20px;
     padding-top: 20px;
+    font-weight: bold;
 }
+
+.background {
+    background-color: #ffefd5;
+}
+
 
 
