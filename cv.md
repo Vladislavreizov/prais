@@ -1,5 +1,5 @@
  Vladislav Reizov 
- ---
+---
  20 years old; Minsk, Belarus  
  E-mail:  riz9man@mail.ru  
  Phone: +375 33 320-67-51 
